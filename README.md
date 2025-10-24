@@ -24,7 +24,7 @@ This project is part of my front-end development learning path, focusing on DOM 
 ---
 
 ## 🚀 Live Demo
-🔗 [Click here to play the game](https://NeoDevs01.github.io/TicTacToe-Game)
+🔗 [Click here to play the game](https://NeoDevs01.github.io/TicTacToe-Game/)
 
 
 ---
